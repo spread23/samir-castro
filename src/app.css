@@ -97,7 +97,7 @@ body {
         justify-content: center;
         align-items: center;
     
-        margin-left: -11px;
+        margin-left: -8px;
         margin-top: -10px;
     }
 
@@ -127,7 +127,7 @@ body {
         padding: 10px;
         width: 90%;
         background-color: transparent;
-        color: white;
+        color: rgb(220, 67, 15);
         border: 1px solid gray;
         border-image: linear-gradient(to bottom, rgb(204, 13, 13), rgb(202, 117, 6)) 1;
         text-decoration: none;
@@ -141,7 +141,7 @@ body {
         padding: 10px;
         width: 90%;
         background-color: transparent;
-        color: white;
+        color: rgb(12, 73, 204);
         border: 1px solid gray;
         border-image: linear-gradient(to right, rgb(9, 9, 215), rgb(12, 133, 193)) 1;
         text-decoration: none;
