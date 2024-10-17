@@ -14,7 +14,9 @@ export const App = () => {
         <div className='description-container'>
           <h2  className='title-description'>-------------------------</h2>
           <h2 className='title-description'>Servicios:</h2>
-          <button  className='btn-description'>Bug Fixer Pro</button>
+          <a href='https://bugfixerpro.com/' target='_blank' className='btn-description'>Bug Fixer Pro</a>
+          <a className='btn-description'>Más servicios</a>
+          <a className='btn-description'>Más servicios</a>
         </div>
       </div>
     </>
