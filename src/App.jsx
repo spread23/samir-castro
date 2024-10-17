@@ -12,11 +12,10 @@ export const App = () => {
           <img className='image' src={samir} alt="samir" />
         </div>
         <div className='description-container'>
-          <h2  className='title-description'>-------------------------</h2>
           <h2 className='title-description'>Servicios:</h2>
           <a href='https://bugfixerpro.com/' target='_blank' className='btn-description'>Bug Fixer Pro</a>
-          <a className='btn-description'>Más servicios</a>
-          <a className='btn-description'>Más servicios</a>
+          <a className='btn-description-two'>Más servicios</a>
+          <a className='btn-description-three'>Más servicios</a>
         </div>
       </div>
     </>
