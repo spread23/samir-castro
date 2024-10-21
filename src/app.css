@@ -108,6 +108,10 @@ body {
     margin-right: 30px;
 }
 
+.icon:hover {
+    color: white;
+}
+
 .footer-container {
     width: 100%;
     display: flex;
